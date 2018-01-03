@@ -1,0 +1,8 @@
+{
+  "name": "",
+  "description": "",
+  "repository": "https://github.com/naoki-kurishita/kuri-bot2-2",
+  "logo": "",
+  "keywords": ["node"],
+  "image": "heroku/nodejs"
+}
